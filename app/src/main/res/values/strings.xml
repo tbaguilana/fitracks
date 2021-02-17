@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FiTracks</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="current_status">My Current Status</string>
+    <string name="title_activity_add_food_form">AddFoodForm</string>
+    <string name="title_activity_add_water_form">AddWaterForm</string>
+    <string name="title_activity_edit_food_form">EditFoodForm</string>
+    <string name="add_food_name">ADD FOOD NAME</string>
+    <string name="title_activity_edit_water_form">EditWaterForm</string>
+</resources>

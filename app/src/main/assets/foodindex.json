@@ -1,0 +1,24 @@
+
+  [
+    { "id": "1", "foodname": "Cereals", "count":200 },
+    { "id": "2", "foodname": "Bacon", "count": 80},
+    { "id": "3", "foodname": "Hotdog", "count": 111},
+    { "id": "4", "foodname": "Corned Beef", "count": 200},
+    { "id": "5", "foodname": "Spam", "count": 180},
+    { "id": "6", "foodname": "Egg", "count": 71},
+    { "id": "7", "foodname": "Rice", "count":  168},
+    { "id": "8", "foodname": "Sisig", "count": 293},
+    { "id": "9", "foodname": "Pork Sinigang", "count": 290},
+    { "id": "10", "foodname": "Chicken Adobo", "count": 224},
+    { "id": "11", "foodname": "Pork Adobo", "count": 342},
+    { "id": "12", "foodname": "Chicken Tinola", "count": 267},
+    { "id": "13", "foodname": "Pork Nilaga", "count": 272},
+    { "id": "14", "foodname": "Beef Nilaga", "count": 462},
+    { "id": "15", "foodname": "Lumpiang Togue", "count": 102},
+    { "id": "16", "foodname": "Lumpiang Shanghai", "count": 140},
+    { "id": "17", "foodname": "Pinakbet", "count": 64},
+    { "id": "18", "foodname": "Ginisang Togue", "count": 86},
+    { "id": "19", "foodname": "Ginisang Ampalaya With Egg", "count": 80},
+    { "id": "20", "foodname": "Fried Tilapia", "count": 100}
+
+  ]
